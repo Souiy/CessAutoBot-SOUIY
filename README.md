@@ -1,4 +1,4 @@
-# CessAutoBot-SOPUIY
+# CessAutoBot-SOUIY
 Full Tutorial Join TIKTOK @souiy1
 
 ## 1.  Set Up
