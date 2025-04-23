@@ -3,6 +3,7 @@ Full Tutorial Join TIKTOK @souiy1
 
 ## 1.  Set Up
 git clone https://github.com/Souiy/CessAutoBot-SOUIY.git
+
 cd CessAutoBot-SOUIY
 
 
